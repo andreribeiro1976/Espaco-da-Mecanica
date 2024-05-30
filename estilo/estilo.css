@@ -1,7 +1,13 @@
 @charset "UTF-8";
 
 body {
-    
-    background-image: url(../Imagens/pexels-mikebirdy-190537.jpg);
+    width: 100vw;
+    height: 100vh;
+    background: url(../Imagens/pexels-mikebirdy-190537.jpg) no-repeat top center;
     background-size:cover;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
 }
