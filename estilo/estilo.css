@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
 body {
-    width: 100vw;
-    height: 100vh;
-    background-image: url(../Imagens/pexels-mikebirdy-190537.png);
-    background-size:contain;
+    
+    background-image: url(../Imagens/pexels-mikebirdy-190537.jpg);
+    background-size:cover;
 }
