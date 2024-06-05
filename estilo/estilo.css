@@ -35,11 +35,15 @@
     
 }
 
-body {
+body.inicio {
     width: 100vw;
     height: 100vh;
     background: url(../Imagens/pexels-mikebirdy-190537.jpg) no-repeat top center;
     background-size:cover;
+}
+body.quemsomos {
+    background: black url("../Imagens/drill.jpg") no-repeat top center;
+    background-size: cover;
 }
 
 ::-webkit-scrollbar {
