@@ -45,6 +45,12 @@ body.quemsomos {
     background: black url("../Imagens/drill.jpg") no-repeat top center;
     background-size: cover;
 }
+body.Lojinha {
+    width:100vw;
+    height:100vh;
+    background: black url("../Imagens/oficina.jpg") no-repeat top center;
+    background-size: cover;
+}
 
 ::-webkit-scrollbar {
     width: 0px;
